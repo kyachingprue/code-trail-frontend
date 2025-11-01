@@ -61,7 +61,7 @@ const Header = () => {
                       "Programmer",
                       2000,
                       "",
-                      "MERN-Stack Developer",
+                      "MERN-STACK",
                       2500,
                       "",
                     ]}
