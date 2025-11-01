@@ -1,0 +1,46 @@
+import React from 'react';
+import footerIcon from '../assets/images/binary.png'
+
+const Footer = () => {
+  return (
+    <div>
+      <footer className="footer sm:footer-horizontal bg-[#000814] text-white p-10">
+        <aside>
+          <img className='w-14 md:w-20' src={footerIcon} alt="Footer icons" />
+          <p>
+            CodeTrail Ltd.
+            <br />
+            Providing reliable tech since 1992
+          </p>
+        </aside>
+        <nav>
+          <h6 className="footer-title">Services</h6>
+          <a className="link link-hover">Branding</a>
+          <a className="link link-hover">Design</a>
+          <a className="link link-hover">Marketing</a>
+          <a className="link link-hover">Advertisement</a>
+        </nav>
+        <nav>
+          <h6 className="footer-title">Company</h6>
+          <a className="link link-hover">About us</a>
+          <a className="link link-hover">Contact</a>
+          <a className="link link-hover">Jobs</a>
+          <a className="link link-hover">Press kit</a>
+        </nav>
+        <nav>
+          <h6 className="footer-title">Legal</h6>
+          <a className="link link-hover">Terms of use</a>
+          <a className="link link-hover">Privacy policy</a>
+          <a className="link link-hover">Cookie policy</a>
+        </nav>
+      </footer>
+      <footer className="footer sm:footer-horizontal footer-center bg-gray-400 text-base-content p-4">
+        <aside>
+          <p>Copyright © {new Date().getFullYear()} - All right reserved by <span className='text-black font-bold'>CodeTrail</span> Ltd</p>
+        </aside>
+      </footer>
+    </div>
+  );
+};
+
+export default Footer;

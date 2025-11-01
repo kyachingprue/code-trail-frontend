@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Learn English in Ease Simply Random Text",
+    "date": "25 Jun 2050",
+    "views": 59,
+    "comments": 19,
+    "image": "https://i.ibb.co.com/tM9B8TF4/adobestock-165061057-autor-antonioguillem-1.jpg",
+    "content": [
+      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+      "If you are going to use a passage of Lorem Ipsum, make sure there isn’t anything embarrassing hidden in the middle of the text.",
+      "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry since the 1500s."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Power of Positive Thinking in Daily Life",
+    "date": "11 Mar 2049",
+    "views": 112,
+    "comments": 35,
+    "image": "https://i.ibb.co.com/DfPWPYwZ/56729091-graduates-embrace-enjoy-and-look-at-the-camera-on-the-graduation-ceremony-happy-graduation.jpg",
+    "content": [
+      "Positive thinking can change your approach toward problems and help you see solutions instead of obstacles.",
+      "Our mindset plays a huge role in how we perceive and respond to life’s challenges.",
+      "Building a habit of gratitude and optimism can lead to better mental health and success.",
+      "Remember, every negative thought replaced by a positive one creates a brighter path ahead."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "How to Stay Productive While Working from Home",
+    "date": "02 Oct 2051",
+    "views": 87,
+    "comments": 21,
+    "image": "https://i.ibb.co.com/Hf4L7cwm/successful-student-studying-city-college.jpg",
+    "content": [
+      "Remote work offers flexibility but also comes with distractions that affect productivity.",
+      "Setting up a dedicated workspace helps maintain focus and work-life balance.",
+      "Use time-blocking and breaks to manage your energy throughout the day.",
+      "Staying connected with your team virtually prevents isolation and burnout."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Exploring the Secrets of Healthy Living",
+    "date": "14 Feb 2048",
+    "views": 203,
+    "comments": 47,
+    "image": "https://i.ibb.co.com/kg5HGgMK/How-To-Be-A-Successful-Student.jpg",
+    "content": [
+      "Healthy living is not just about eating well; it includes mental peace, exercise, and proper rest.",
+      "A balanced diet with fruits, vegetables, and sufficient hydration builds strong immunity.",
+      "Daily meditation or mindfulness can drastically improve your emotional well-being.",
+      "Consistency in small habits leads to long-term results and happiness."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Journey of Learning to Code",
+    "date": "09 Sep 2047",
+    "views": 178,
+    "comments": 28,
+    "image": "https://i.ibb.co.com/zVKBNwHF/6147.jpg",
+    "content": [
+      "Learning to code is like learning a new language—it takes patience and practice.",
+      "Start with simple projects to build your confidence and understanding of logic.",
+      "Join communities, ask questions, and learn from others’ experiences.",
+      "The more you practice, the more you understand how technology solves real-world problems."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Travel the World on a Budget",
+    "date": "19 Dec 2049",
+    "views": 132,
+    "comments": 31,
+    "image": "https://i.ibb.co.com/KxTYWR41/111323-MCPHS-16.jpg",
+    "content": [
+      "Traveling doesn’t have to be expensive if you plan smartly and stay flexible.",
+      "Look for affordable stays, local food, and off-season deals to save money.",
+      "Connecting with locals gives you authentic experiences beyond tourist spots.",
+      "Every journey teaches you something new about the world and yourself."
+    ]
+  }
+]

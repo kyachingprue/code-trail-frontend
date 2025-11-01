@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+
+li a.active {
+  color: rgb(13, 235, 235);
+  text-decoration: underline;
+}
